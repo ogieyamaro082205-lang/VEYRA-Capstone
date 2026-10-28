@@ -1,0 +1,16 @@
+VEYRA CAPSTONE PROJECT
+AI-Powered Flood Detection and 3D Urban Flood Simulation
+
+Purpose:
+This repository is used by the VEYRA capstone team to collaborate and track project updates.
+
+Team Members:
+- Ogie L. Yamaro
+- Jhon Osler A. Oreda
+- Zyrus Glen H. Lacerona
+
+Instructor:
+lutherly@gmail.com
+
+Test File:
+This file will be updated by each team member to demonstrate GitHub commits.
