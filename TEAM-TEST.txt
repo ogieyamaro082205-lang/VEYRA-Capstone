@@ -14,3 +14,5 @@ lutherly@gmail.com
 
 Test File:
 This file will be updated by each team member to demonstrate GitHub commits.
+
+Ogie L. Yamaro - Created the VEYRA Capstone GitHub repository and prepared the initial project documentation.
